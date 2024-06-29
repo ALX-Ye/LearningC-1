@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719670501 source:c:\users\csc\desktop\codeblocks projects\restaurantbillingsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
